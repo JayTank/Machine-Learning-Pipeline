@@ -1,9 +1,9 @@
 # Machine-Learning-Pipeline
 Creating a Machine Learning Pipeline to transform, process and analyze a large National Patient Database
 
-System Requiremens:
-Programming Language - Python 3.x
-Database - PostgreSQL
+System Requiremens:\
+Programming Language - Python 3.x\
+Database - PostgreSQL\
 Libraries - psycopg2, pandas, numpy, scikit-learn
 
 
