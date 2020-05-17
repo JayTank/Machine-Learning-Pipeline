@@ -2,9 +2,9 @@
 Creating a Machine Learning Pipeline to transform, process and analyze a large National Patient Database
 
 System Requiremens:
-Programming Language: Python 3.x
-Database: PostgreSQL
-Libraries: psycopg2, pandas, numpy, scikit-learn
+Programming Language - Python 3.x
+Database - PostgreSQL
+Libraries - psycopg2, pandas, numpy, scikit-learn
 
 
 Background: I present a method to create a Big Data pipeline utilizing Healthcare Cost and Utilization Project (HCUP) dataset for
