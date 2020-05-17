@@ -1,5 +1,5 @@
 # Machine-Learning-Pipeline
-Creating a Machine Learning Pipeline to transform, process and analyze a large National Patient Database
+Creating a Machine Learning Pipeline to transform, process and analyze a large National Patient Database. The results obtained with the proposed method can be used for tailored health communication.
 
 System Requiremens:\
 Programming Language - Python 3.x\
