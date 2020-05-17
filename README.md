@@ -1,6 +1,12 @@
 # Machine-Learning-Pipeline
 Creating a Machine Learning Pipeline to transform, process and analyze a large National Patient Database
 
+System Requiremens:
+Programming Language: Python 3.x
+Database: PostgreSQL
+Libraries: psycopg2, pandas, numpy, scikit-learn
+
+
 Background: I present a method to create a Big Data pipeline utilizing Healthcare Cost and Utilization Project (HCUP) dataset for
 predicting disease risk of individuals based on their medical diagnosis history. The presented methodology may be incorporated in a
 variety of applications such as risk management, tailored health communication and decision support systems in healthcare.
